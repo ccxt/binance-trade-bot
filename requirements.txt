@@ -3,7 +3,7 @@ sqlalchemy==1.4.15
 schedule==1.1.0
 apprise==0.9.5.1
 Flask==2.1.1
-gunicorn==20.1.0
+gunicorn==22.0.0
 flask-cors==3.0.10
 flask-socketio==5.0.1
 eventlet==0.30.2
